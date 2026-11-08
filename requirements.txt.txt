@@ -1,0 +1,9 @@
+pandas
+rapidfuzz
+requests
+customtkinter
+pillow
+openpyxl
+pymupdf
+cryptography
+pywin32
